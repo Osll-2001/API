@@ -1,0 +1,6 @@
+PASOS PARA MI PROYECTO API
+
+1.- npm init para el archivo package.JSON
+
+2.- instalar express
+	->npm install -S express (el -s es para que queden guardadas en la carpeta)
